@@ -25,7 +25,7 @@ gradle execute
 ```
 
 ## Sample output
-
+<img src="https://github.com/Dracaltech/sample-java-cli/assets/1357711/3111b37e-bc91-4832-bf31-fcf595ce127b" width=400 />
 
 ```
 Ξ dracal/sample-java-cli git:(main) ▶ gradle execute
