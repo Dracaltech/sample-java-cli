@@ -25,18 +25,18 @@ gradle execute
 ```
 
 ## Sample output
-<img src="https://github.com/Dracaltech/sample-java-cli/assets/1357711/3111b37e-bc91-4832-bf31-fcf595ce127b" width=400 />
+<img src="https://github.com/Dracaltech/sample-java-cli/assets/1357711/43c6c90b-98ac-46e1-b08e-bac92e6c6a32" width=400 />
 
 ```
 Ξ dracal/sample-java-cli git:(main) ▶ gradle execute
 
 > Task :execute
-Temperature (C):100.22
-RH......... (%):24.34
-Pressure..(kPa):51.06
-Temperature (C):212.396
+Temperature (C):21.47
+RH......... (%):56.32
+Pressure..(kPa):101.19
+Temperature (C):70.645996
 
-BUILD SUCCESSFUL in 1s
+BUILD SUCCESSFUL in 821ms
 2 actionable tasks: 1 executed, 1 up-to-date
 Ξ dracal/sample-java-cli git:(main) ▶
 ```
