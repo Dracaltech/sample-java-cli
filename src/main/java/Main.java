@@ -55,9 +55,9 @@ public class Main {
       return;
     }
 
-    float temperature = Float.parseFloat(values[0]);
-    float rh = Float.parseFloat(values[1]);
-    float pressure = Float.parseFloat(values[2]);
+    float pressure = Float.parseFloat(values[0]);
+    float temperature = Float.parseFloat(values[1]);
+    float rh = Float.parseFloat(values[2]);
 
     System.out.println("Temperature (C):" + temperature);
     System.out.println("RH......... (%):" + rh);
